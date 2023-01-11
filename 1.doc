@@ -1,0 +1,28 @@
+Исходники: https://github.com/hellohtmlcss-2/test-html-css
+
+ДЗ:
+
+Посмотреть макет - https://www.figma.com/file/w0QUiWxgfmzUzVaFI57jyY/Templates-%236.-More-on-Figma.info-(Copy)?node-id=0%3A1
+опубликовать свой проект с README.md на гитхабе
+нарезать оставшуюся графику в подходящих форматах (svg, png, jpg) 
+опубликовать проект на github через github desktop -  ​https://desktop.github.com/
+выбрать и скачать редактор кода 
+дополнительно - заменить графику png & jpg на webp
+дополнительно - опубликовать через консоль
+Полезные ссылки из первого модуля:
+Webp - новый и самый современный форма для веба, к сожалению пока не поддерживается фигмой, но можно конвертировать при помощи сервиса - https://ezgif.com/png-to-webp
+Иногда в проектах не требуется точное соответствие макету и используют иконочные шрифты - https://fontawesome.ru/
+Редакторы
+atom - https://atom.io/
+vsCode - https://code.visualstudio.com/
+В больших компаниях обычно используют IDE, например webstorm - там намного больше функций из коробки, чем у обычных редакторов, тем не менее редакторы тоже развиваются.
+Расширение Emmet - уже встроен в vsCode - https://emmet.io/  Обладает комбинациями клавиш, которые облегчают написание кода, например,  ! - заготовка для документа
+Полезные расширения для VSCode:
+auto close tag - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+auto rename tag - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+beautify - https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+CSS navigation - https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation
+copy classes - https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port
+image preview - https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+indent rainbow - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+project manager - https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
